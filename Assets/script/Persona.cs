@@ -6,8 +6,6 @@ public class Persona : MonoBehaviour
     void Start()
     {
         Debug.Log("Asset Creado");
-
-        
     }
 
     // Update is called once per frame
